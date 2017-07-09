@@ -1,0 +1,9 @@
+0: Wooden Sword, Cut, Slash
+1: Wooden Bow, Quick Shot, Shot
+2: Wooden Dagger, Stab, Slice
+3: Old Sword, Cut, Slash
+4: Old Bow, Quick Shot, Shot
+5: Old Dagger, Stab, Slice
+6: Rusty Sword, Cut, Slash
+7: Rusty Bow, Quick Shot, Shot
+8: Rusty Dagger, Cut, Slice
